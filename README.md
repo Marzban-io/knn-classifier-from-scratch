@@ -1,7 +1,5 @@
 # k-NN Classifier from Scratch (Python/NumPy)
 
-This repository contains a Python implementation of the k-Nearest Neighbors (k-NN) classifier, built primarily from scratch using NumPy within a Jupyter Notebook environment.
-
 ## Project Overview
 
 This project demonstrates the fundamentals of the k-NN algorithm by:
