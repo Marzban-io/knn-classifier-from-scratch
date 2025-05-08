@@ -20,3 +20,5 @@ This project demonstrates the fundamentals of the k-NN algorithm by:
 *   Includes correlation matrix visualization using `pandas` and `seaborn` for feature analysis in Exercises 2 and 3.
 
 This project serves as a practical exercise in understanding and implementing a fundamental classification algorithm and evaluating its characteristics.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Marzban-io/knn-classifier-from-scratch/blob/main/KNN.ipynb)
